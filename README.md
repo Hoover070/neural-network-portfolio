@@ -19,19 +19,19 @@ Repositories Overview:
 [Basic Neural Network](https://github.com/Hoover070/basic-neural-network)
     
     
-    Convolutional Neural Networks (CNNs): Exploring image recognition and analysis with CNNs.
+    Convolutional Neural Networks (CNNs): Exploring image recognition and analysis with CNNs.[Work in progress, link temporarily points to linkedin profile.]
 [Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/)
     
     
-    Recurrent Neural Networks (RNNs): Delving into sequence data processing with various RNN architectures.
+    Recurrent Neural Networks (RNNs): Delving into sequence data processing with various RNN architectures.[Work in progress, link temporarily points to linkedin profile.]
 [Recurrent Neural Networks (RNNs)](https://www.linkedin.com/in/williamhoover70/)
     
     
-    Generative Adversarial Networks (GANs): Generating new data that mimics a given dataset using GANs.
+    Generative Adversarial Networks (GANs): Generating new data that mimics a given dataset using GANs.[Work in progress, link temporarily points to linkedin profile.]
 [Generative Adversarial Networks (GANs)](https://www.linkedin.com/in/williamhoover70/)
     
     
-    Transformer Networks: Investigating natural language processing tasks using Transformer architectures.
+    Transformer Networks: Investigating natural language processing tasks using Transformer architectures.[Work in progress, link temporarily points to linkedin profile.]
 [Transformer Networks](https://www.linkedin.com/in/williamhoover70/)
     
     
