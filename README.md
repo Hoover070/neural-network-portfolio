@@ -44,7 +44,10 @@ Technologies Used:
     TensorFlow
     PyTorch
     Keras
-    
+    Scikit-Learn
+    Pandas
+    Seaborn
+    MatPlot Library
 
 Contact:
 Feel free to reach out for any collaborative opportunities, discussions, or inquiries related to AI and ML. You can contact me at [LinkedIn Profile](https://www.linkedin.com/in/williamhoover70/).
