@@ -1,6 +1,6 @@
-Welcome to my Neural Network Exploration Portfolio! As an enthusiastic Computer Science student with a focus on Artificial Intelligence and Machine Learning at Full Sail University, I am excited to delve into the fascinating world of neural networks and share my journey.
+Welcome to my Neural Network Exploration Portfolio! As a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning at Full Sail University, I am thrilled to embark on the intriguing journey of neural networks and share my experiences.
 
-This portfolio is a curated showcase of various neural network architectures I have implemented, each housed in its dedicated repository. From fundamental models like Perceptrons to advanced architectures like Generative Adversarial Networks, this portfolio mirrors my ongoing quest to comprehend and apply neural network principles.
+This portfolio is a living showcase of various neural network architectures I have explored, each hosted in its dedicated repository. As I continue to work on projects, this portfolio will be updated to reflect my evolving understanding and application of neural network principles.
 
 Highlighted Projects:
 
@@ -13,28 +13,15 @@ Highlighted Projects:
     Conway's Game of Life Simulation: An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
   [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife)
   
-Repositories Overview:
+Repositories Overview: 
+    
+    As I venture into more complex projects and neural network architectures, new repositories will be added to this section, each with its own detailed explanation and demonstration of the concepts involved. 
 
     Basic Neural Network: A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
 [Basic Neural Network](https://github.com/Hoover070/basic-neural-network)
     
     
-    Convolutional Neural Networks (CNNs): Exploring image recognition and analysis with CNNs.[Work in progress, link temporarily points to linkedin profile.]
-[Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/)
-    
-    
-    Recurrent Neural Networks (RNNs): Delving into sequence data processing with various RNN architectures.[Work in progress, link temporarily points to linkedin profile.]
-[Recurrent Neural Networks (RNNs)](https://www.linkedin.com/in/williamhoover70/)
-    
-    
-    Generative Adversarial Networks (GANs): Generating new data that mimics a given dataset using GANs.[Work in progress, link temporarily points to linkedin profile.]
-[Generative Adversarial Networks (GANs)](https://www.linkedin.com/in/williamhoover70/)
-    
-    
-    Transformer Networks: Investigating natural language processing tasks using Transformer architectures.[Work in progress, link temporarily points to linkedin profile.]
-[Transformer Networks](https://www.linkedin.com/in/williamhoover70/)
-    
-    
+
 
 Each repository contains a detailed README, explaining the architecture, its applications, the implementation process, and results obtained. Additionally, you'll find comments throughout the code providing further insight into the logic and techniques employed.
 
