@@ -4,11 +4,12 @@ This portfolio is a curated showcase of various neural network architectures I h
 
 Highlighted Projects:
 
-  [Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover): Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation. Project Repository
+  [Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover): Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation.
 
-  [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover): An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org. Project Repository
+  [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover): An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org.
 
-  [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife): An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game. Project Repository
+  [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife): An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
+  
 Repositories Overview:
 
   [Basic Neural Network](https://www.linkedin.com/in/williamhoover70/): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
