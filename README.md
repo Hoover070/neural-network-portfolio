@@ -4,23 +4,36 @@ This portfolio is a curated showcase of various neural network architectures I h
 
 Highlighted Projects:
 
-  [Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover): Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation.
+    Titanic Survivors Analysis: Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation.
+[Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover)
 
-  [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover): An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org.
-
-  [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife): An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
+    Mapping AI Research Evolution: An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org.
+ [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover)
+ 
+    Conway's Game of Life Simulation: An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
+  [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife)
   
 Repositories Overview:
 
-  [Basic Neural Network](https://github.com/Hoover070/basic-neural-network): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
+    Basic Neural Network: A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
+[Basic Neural Network](https://github.com/Hoover070/basic-neural-network)
     
-  [Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/): Exploring image recognition and analysis with CNNs.
     
-  [Recurrent Neural Networks (RNNs)](https://www.linkedin.com/in/williamhoover70/): Delving into sequence data processing with various RNN architectures.
+    Convolutional Neural Networks (CNNs): Exploring image recognition and analysis with CNNs.
+[Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/)
     
-  [Generative Adversarial Networks (GANs)](https://www.linkedin.com/in/williamhoover70/): Generating new data that mimics a given dataset using GANs.
     
-  [Transformer Networks](https://www.linkedin.com/in/williamhoover70/): Investigating natural language processing tasks using Transformer architectures.
+    Recurrent Neural Networks (RNNs): Delving into sequence data processing with various RNN architectures.
+[Recurrent Neural Networks (RNNs)](https://www.linkedin.com/in/williamhoover70/)
+    
+    
+    Generative Adversarial Networks (GANs): Generating new data that mimics a given dataset using GANs.
+[Generative Adversarial Networks (GANs)](https://www.linkedin.com/in/williamhoover70/)
+    
+    
+    Transformer Networks: Investigating natural language processing tasks using Transformer architectures.
+[Transformer Networks](https://www.linkedin.com/in/williamhoover70/)
+    
     
 
 Each repository contains a detailed README, explaining the architecture, its applications, the implementation process, and results obtained. Additionally, you'll find comments throughout the code providing further insight into the logic and techniques employed.
