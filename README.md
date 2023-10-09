@@ -1,7 +1,14 @@
-Welcome to my Neural Network Exploration Portfolio! As a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning at Full Sail University, I am thrilled to delve into the realm of neural networks and share my explorations.
+Welcome to my Neural Network Exploration Portfolio! As an enthusiastic Computer Science student with a focus on Artificial Intelligence and Machine Learning at Full Sail University, I am excited to delve into the fascinating world of neural networks and share my journey.
 
-This portfolio is a curated collection of various neural network architectures I have implemented, each within its dedicated repository. Ranging from basic models like Perceptrons to advanced architectures like Generative Adversarial Networks, this portfolio reflects my continuous journey in understanding and applying neural network principles.
+This portfolio is a curated showcase of various neural network architectures I have implemented, each housed in its dedicated repository. From fundamental models like Perceptrons to advanced architectures like Generative Adversarial Networks, this portfolio mirrors my ongoing quest to comprehend and apply neural network principles.
 
+Highlighted Projects:
+
+  [Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover): Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation. Project Repository
+
+  [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover): An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org. Project Repository
+
+  [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife): An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game. Project Repository
 Repositories Overview:
 
   [Basic Neural Network](https://www.linkedin.com/in/williamhoover70/): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
