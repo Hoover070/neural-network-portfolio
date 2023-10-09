@@ -22,4 +22,4 @@ Technologies Used:
     ... and other AI/ML libraries and tools.
 
 Contact:
-Feel free to reach out for any collaborative opportunities, discussions, or inquiries related to AI and ML. You can contact me at [Email](billhoover070@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/williamhoover70/).
+Feel free to reach out for any collaborative opportunities, discussions, or inquiries related to AI and ML. You can contact me at [LinkedIn Profile](https://www.linkedin.com/in/williamhoover70/).
