@@ -12,7 +12,7 @@ Highlighted Projects:
   
 Repositories Overview:
 
-  [Basic Neural Network](https://www.linkedin.com/in/williamhoover70/): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
+  [Basic Neural Network](https://github.com/Hoover070/basic-neural-network): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
     
   [Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/): Exploring image recognition and analysis with CNNs.
     
