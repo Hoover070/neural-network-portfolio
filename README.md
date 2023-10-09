@@ -4,15 +4,15 @@ This portfolio is a curated collection of various neural network architectures I
 
 Repositories Overview:
 
-    [Basic Neural Network](): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
+    [Basic Neural Network](https://www.linkedin.com/in/williamhoover70/): A dive into foundational neural network models including Perceptrons and Multi-layer Perceptrons.
     
-    [Convolutional Neural Networks (CNNs)](): Exploring image recognition and analysis with CNNs.
+    [Convolutional Neural Networks (CNNs)](https://www.linkedin.com/in/williamhoover70/): Exploring image recognition and analysis with CNNs.
     
-    [Recurrent Neural Networks (RNNs)](): Delving into sequence data processing with various RNN architectures.
+    [Recurrent Neural Networks (RNNs)](https://www.linkedin.com/in/williamhoover70/): Delving into sequence data processing with various RNN architectures.
     
-    [Generative Adversarial Networks (GANs)](): Generating new data that mimics a given dataset using GANs.
+    [Generative Adversarial Networks (GANs)](https://www.linkedin.com/in/williamhoover70/): Generating new data that mimics a given dataset using GANs.
     
-    [Transformer Networks](): Investigating natural language processing tasks using Transformer architectures.
+    [Transformer Networks](https://www.linkedin.com/in/williamhoover70/): Investigating natural language processing tasks using Transformer architectures.
     
 
 Each repository contains a detailed README, explaining the architecture, its applications, the implementation process, and results obtained. Additionally, you'll find comments throughout the code providing further insight into the logic and techniques employed.
