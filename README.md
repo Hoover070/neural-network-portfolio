@@ -7,7 +7,7 @@ Highlighted Projects:
     Titanic Survivors Analysis: Utilized machine learning algorithms to analyze the survival rates of Titanic passengers, showcasing data preprocessing, exploratory data analysis, model training, and validation.
 [Titanic Survivors Analysis](https://github.com/Hoover070/MIS_Research_Hoover)
 
-    Mapping AI Research Evolution: An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data from arxiv.org.
+    Mapping AI Research Evolution: An interactive data visualization project mapping the progression of AI and ML research over the past 20 years using data collected from the arxiv.org API.
  [Mapping AI Research Evolution](https://github.com/Hoover070/DVM_RP_Hoover)
  
     Conway's Game of Life Simulation: An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
