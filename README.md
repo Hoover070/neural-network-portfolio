@@ -12,6 +12,12 @@ Highlighted Projects:
  
     Conway's Game of Life Simulation: An implementation of the cellular automaton, Conway's Game of Life, using C# and Windows Forms, providing an interactive GUI to visualize the evolution of the game.
   [Conway's Game of Life Simulation](https://github.com/Hoover070/ConwaysGameOfLife)
+
+      smart_fp (Smart Financial Planner): A project aimed at building an intelligent financial planner that uses AI to predict savings and financial feasibilities.
+  [PettyChange AI Powered Financial Planner](https://github.com/Hoover070/smart_fp/)
+  
+      Gradiant Boosting Model for PettyChange: AI model for the Pocket Change budgeting application, predicting saving potentials and offering financial insights.
+  [Gradiant Boosting Model for PettyChange Financial Planner](https://github.com/Hoover070/BudgetApp_Model)
   
 Repositories Overview: 
     
