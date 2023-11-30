@@ -1,3 +1,4 @@
+# William Hoover's Portfolio
 Welcome to my Neural Network Exploration Portfolio! As a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning at Full Sail University, I am thrilled to embark on the intriguing journey of neural networks and share my experiences.
 
 This portfolio is a living showcase of various neural network architectures I have explored, each hosted in its dedicated repository. As I continue to work on projects, this portfolio will be updated to reflect my evolving understanding and application of neural network principles.
